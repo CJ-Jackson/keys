@@ -1,3 +1,3 @@
 # keys
 
-Just a collection of publics keys
+Just a collection of public keys
